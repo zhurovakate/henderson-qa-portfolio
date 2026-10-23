@@ -34,6 +34,9 @@ El reporte HQP-2 requiere aclarar los requisitos de diseño: una diferencia en e
 
 Los reportes permanecen en el estado «Por hacer». No se documentó una corrección ni una prueba de regresión.
 
+### Vista de los reportes en Jira
+
+![Lista de cuatro reportes con sus prioridades en Jira](evidence/jira-report-list.png)
 ## Evidencia y criterios
 
 La [captura original](evidence/search-results.png) se comparte entre los cuatro reportes. Los textos del interfaz se conservan en ruso para poder contrastarlos con la imagen; las explicaciones están en español.
